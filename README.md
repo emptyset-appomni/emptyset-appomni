@@ -1,3 +1,4 @@
+```
 -----BEGIN PGP MESSAGE-----
 
 jA0ECQMC+njv3galcA3/0sDfAQu5wojcdFb22PzPJG4cXrTNa+sPoJzY2njzKCkv
@@ -12,3 +13,4 @@ L+qGI/lOn5MPsVI1PSLn3po11OM79uct67zN/2yzw4vz0xyVhRi8dgoxPodVXEYb
 WA==
 =DlhP
 -----END PGP MESSAGE-----
+```
